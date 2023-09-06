@@ -9,5 +9,6 @@ public class Maven2 {
 		
 		//smoketest
 		System.out.println("Hi");
+		//regressiontest
 	}
 }
