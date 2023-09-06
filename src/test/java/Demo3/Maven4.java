@@ -9,7 +9,10 @@ public class Maven4 {
 
 	@Test
 	public void m4() throws Throwable {
+		
+		//smoketest
 		System.out.println("HELLO");
+		
 		
 		WebDriverManager.chromedriver().setup();
 		ChromeDriver driver = new ChromeDriver();
